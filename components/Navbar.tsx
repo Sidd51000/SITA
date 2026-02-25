@@ -43,7 +43,7 @@ const Navbar: React.FC = () => {
               </Link>
 
               <Link
-                href="/"
+                href="/about"
                 className="text-black border-b-2 border-transparent hover:border-black transition-all duration-200"
               >
                 About
@@ -122,7 +122,7 @@ const Navbar: React.FC = () => {
             </Link>
 
             <Link
-              href="/"
+              href="/about"
               className="block text-black hover:text-gray-500 transition-colors duration-200"
             >
               About
